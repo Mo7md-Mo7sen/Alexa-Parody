@@ -2,6 +2,11 @@
 
 A simple voice assistant built with Python using speech recognition and text-to-speech engines.
 
+## Remainder 
+Never feel overwhelmed by how big systems work. Just like I did with my Alexa (parody), you can take the **"divide and conquer"** approach. Remember, Alexa is just a combination of software and some hardware! By breaking down the complexity into manageable parts, you can build your own version of a voice assistant. Each component, from voice recognition to text-to-speech, can be tackled individually, making the process approachable and fun.
+
+
+
 ## Features
 - Play YouTube videos by topic
 - Tell the current time
