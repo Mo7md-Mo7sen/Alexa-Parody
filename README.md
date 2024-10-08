@@ -22,6 +22,6 @@ A simple voice assistant built with Python using speech recognition and text-to-
    ```bash
    pip install speech_recognition pyttsx3 pywhatkit wikipedia pyjokes
 2. Run the script using Python:
-   '''bash
+   ```bash
    python alexa.py
 
