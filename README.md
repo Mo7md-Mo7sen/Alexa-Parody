@@ -23,9 +23,7 @@ Never feel overwhelmed by how big systems work. Just like I did with my Alexa (p
 - `pyjokes` library
 
 ## Usage
-1. Install the required libraries using pip:
-   ```bash
-   pip install speech_recognition pyttsx3 pywhatkit wikipedia pyjokes
+1. Clone the repository or download the code.
 2. Run the script using Python:
    ```bash
    python alexa.py
