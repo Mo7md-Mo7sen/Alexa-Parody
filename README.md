@@ -27,4 +27,19 @@ Never feel overwhelmed by how big systems work. Just like I did with my Alexa (p
 2. Run the script using Python:
    ```bash
    python alexa.py
+3. Speak a command to Alexa (Parody), such as "Play music" or "What time is it?"
+   
+## Code Structure
+It's organized into several functions:
+
+- talk(text): speaks out the given text using the text-to-speech engine
+- take_command(): listens for a voice command and processes it
+- run_assistant(): processes the command and performs the appropriate action
+- The main loop runs Alexa (Parody) in an infinite loop, listening for commands and responding accordingly.
+  
+## Customization
+You can customize Alexa (Parody) by modifying the run_assistant() function to add new commands or actions.
+
+
+
 
